@@ -1,5 +1,22 @@
+# Vagrant
 .vagrant/
+
+# Logs
 *.log
-*.tmp
+
+# Env
 .env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temp
+tmp/
+*.tmp
+
 
